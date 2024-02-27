@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td>Front-end</td>
-      <td></td>
+      <td>javascript, React-Native</td>
     </tr>
     <tr>
       <td>Back-end</td>
