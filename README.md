@@ -68,12 +68,17 @@
 <p>api 문서화, 협업 강화, 테스트 용이성을 위한 Swagger</p>
 <p>확장성 및 유연성을 고려한 AWS EC2</p>
 <p>보안 및 DB 부하를 고려한 Spring Security JWT</p>
-<h2>아키텍처</h2>
+<h2>JWT, Spring Security, 카카오 소셜 로그인</h2>
 <img
   width="100%"
   height="100%"
-  alt="architecture"
-  src="https://github.com/SUNGJUN1234/GTA/assets/91239439/5aed1597-9601-45fe-847b-0682e777f615"
+  src="https://github.com/Min-SungJo/GTA/assets/91239439/c375e5d5-18a6-4a0a-8081-e52dd5d8fac1"
+  >
+<h2>관광지 정보 요청(Cache miss)</h2>
+<img
+  width="100%"
+  height="100%"
+  src="https://github.com/Min-SungJo/GTA/assets/91239439/71cb1835-4773-4c66-a6e5-dd587cd782d8"
   >
 <h2>ERD</h2>
 <h3>MariaDB</h3>
