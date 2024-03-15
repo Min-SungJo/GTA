@@ -68,6 +68,12 @@
 <p>api 문서화, 협업 강화, 테스트 용이성을 위한 Swagger</p>
 <p>확장성 및 유연성을 고려한 AWS EC2</p>
 <p>보안 및 DB 부하를 고려한 Spring Security JWT</p>
+<h2>프로젝트 구조</h2>
+<img
+  width="100%"
+  height="100%"
+  src="https://github.com/Min-SungJo/GTA/assets/91239439/9a3b4fd8-e7e0-4b30-a7f1-92e84d3b1d00"
+  >
 <h2>JWT, Spring Security, 카카오 소셜 로그인</h2>
 <img
   width="100%"
